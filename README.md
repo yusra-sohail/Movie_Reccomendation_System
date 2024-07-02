@@ -1,2 +1,2 @@
-# movie_reccomendation_system
-Explore a Movie Recommender System using Streamlit UI with 5000 movies from TMDB, featuring cosine similarity for movie recommendations and real-time poster updates
+# 🎞️✮🍿🎬✧ Movie Reccomender Project 
+This project showcases a Movie Recommender System built with Streamlit, offering an intuitive user interface. The dataset includes 5000 movies sourced from TMDB (The Movie Database). Prior to analysis, the dataset underwent rigorous preprocessing involving cleaning, stemming, and vectorization techniques. Cosine similarity was utilized to measure movie similarities based on textual features. Real-time movie posters were dynamically fetched using the TMDB API, enhancing the visual appeal and relevance of recommendations. This project represents my initial exploration into machine learning, combining practical data handling with interactive user experience design
