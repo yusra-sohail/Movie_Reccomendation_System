@@ -1,2 +1,4 @@
 # 🎞️✮🍿🎬✧ Movie Reccomender Project 
 This project showcases a Movie Recommender System built with Streamlit, offering an intuitive user interface. The dataset includes 5000 movies sourced from TMDB (The Movie Database). Prior to analysis, the dataset underwent rigorous preprocessing involving cleaning, stemming, and vectorization techniques. Cosine similarity was utilized to measure movie similarities based on textual features. Real-time movie posters were dynamically fetched using the TMDB API, enhancing the visual appeal and relevance of recommendations. This project represents my initial exploration into machine learning, combining practical data handling with interactive user experience design
+
+[streamlit-app-2024-07-03-01-07-51.webm](https://github.com/yusra-sohail/movie_reccomendation_system/assets/131403358/23a01833-8ecf-422b-ab56-5a67c0109ed2)
